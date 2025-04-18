@@ -1,0 +1,12 @@
+langchain 
+wikipedia 
+langchain-community 
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
+pyautogui
+pyttsx3
+speech_recognition as sr
+psutil
